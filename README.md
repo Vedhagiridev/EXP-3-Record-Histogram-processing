@@ -206,7 +206,9 @@ plt.show()
 
 <img width="1262" height="503" alt="image" src="https://github.com/user-attachments/assets/6966d2c3-f18e-4856-b8f8-0a13314ae05b" />
 
-<img width="1273" height="467" alt="image" src="https://github.com/user-attachments/assets/ac6aa37f-129f-4ff1-a763-214e8ba9cc8e" />
+<img width="1243" height="485" alt="image" src="https://github.com/user-attachments/assets/74b69eb4-40ac-44b6-8ade-f75d91074c27" />
+
+
 
 ### Grayscale Histogram Equalization
 
